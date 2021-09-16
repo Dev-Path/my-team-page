@@ -37,6 +37,7 @@ p:last-child {
     display: grid;
     grid-template-columns: auto auto auto;
     gap: 40px;
+    height: auto;
 }
 
 .images {
@@ -46,7 +47,7 @@ p:last-child {
 
 
 .photo2 {
-    align-self: bottom;
+    align-self: end;
 }
 
 .name{
@@ -91,6 +92,10 @@ footer {
         grid-template-columns: auto auto;
         grid-template-rows: auto auto auto;
         gap: 20px;
+        height: auto;
+    }
+    .photo2 {
+        align-self: end;
     }
 }
 
@@ -107,4 +112,13 @@ footer {
         column-gap: 60px;
     }
 
+    .image-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 40px;
+        height: auto;
+    }
+    .photo2 {
+        align-self: end;
+    }
 }
