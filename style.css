@@ -48,6 +48,10 @@ p:last-child {
 
 .image {
     height: 70%;
+    display: grid;
+    grid-template-columns: auto auto;
+    /* grid-template-rows: auto auto; */
+
 }
 
 .photo2 {
@@ -64,10 +68,26 @@ p:last-child {
     font-style: normal;
     font-weight: 600;
     font-size: 1.5em;
-    line-height: 27px;
     /* identical to box height */
     color: #000;
 
+}
+
+.position {
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.position{
+    align-self: center;
+    padding: 0;
+    margin: 0;
+    justify-content:flex-start;
 }
 
 a {
@@ -127,7 +147,7 @@ footer {
     }
 
     .images {
-        max-width: 100%;
+        max-width: 120%;
         height: auto;
     }
 
@@ -162,4 +182,11 @@ footer {
         max-width: 100%;
         height: auto;
     }
+    .position {
+        align-self: flex-start;
+        justify-content: flex-start;
+         padding: 0;
+         margin: 0;
+    }
+
 }
