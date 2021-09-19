@@ -31,26 +31,35 @@ p:last-child {
 
 .description {
     max-width: 500px;
+
 }
 
 .image-container {
     display: grid;
     grid-template-columns: auto auto auto;
-    gap: 40px;
     height: auto;
+    padding: 40px 40px 0;
 }
 
 .images {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
 }
 
+.image {
+    height: 70%;
+}
 
 .photo2 {
     align-self: end;
 }
 
-.name{
+.photo5 {
+    align-self: end;
+}
+
+
+.name {
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
@@ -61,7 +70,7 @@ p:last-child {
 
 }
 
-a{
+a {
     color: #A9A9A9;
 }
 
@@ -84,7 +93,8 @@ footer {
     .header {
         display: grid;
         grid-template-columns: auto;
-        margin-bottom: 40px;
+        padding: 40px 40px;
+
     }
 
     .image-container {
@@ -94,8 +104,37 @@ footer {
         gap: 20px;
         height: auto;
     }
+
     .photo2 {
         align-self: end;
+    }
+
+    .photo4 {
+        align-self: end;
+    }
+
+    .photo6 {
+        align-self: end;
+    }
+
+    .photo5 {
+        align-self: start;
+    }
+
+
+    .image {
+        height: 70%;
+    }
+
+    .images {
+        max-width: 100%;
+        height: auto;
+    }
+
+    footer {
+        text-align: center;
+        color: #beaaaa;
+        margin-top: 40%;
     }
 }
 
@@ -118,7 +157,9 @@ footer {
         gap: 40px;
         height: auto;
     }
-    .photo2 {
-        align-self: end;
+
+    .images {
+        max-width: 100%;
+        height: auto;
     }
 }
