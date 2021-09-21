@@ -232,5 +232,7 @@ footer {
             font-weight: bolder;
             color: #000;
         }
+        .description {
+            max-width: 400px;
 
 }
