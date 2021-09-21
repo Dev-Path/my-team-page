@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [patrick](https://patrickkyei.com)
 - GitHub [@PatrickKyei](https://github.com/PatrickKyei)
-- Twitter [@your-twitter](https://twitter.com/_patrickbaffour)
+- Twitter [@_patrickbaffour](https://twitter.com/_patrickbaffour)
