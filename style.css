@@ -82,7 +82,7 @@ p:last-child {
     text-transform: uppercase;
     color: #000000;
     transform: rotate(90deg);
-            margin-top: 60px;
+    margin-top: 60px;
 
 }
 
@@ -202,37 +202,40 @@ footer {
 
     .position {
         align-self: flex-start;
-        margin-top:50px;
+        margin-top: 50px;
     }
-        .image {
-            height: 70%;
-        }
 
-        .images {
-            max-height: 100%;
-        }
+    .image {
+        height: 70%;
+    }
 
-        .position {
-            align-self: flex-start;
-            font-family: PT Serif;
-            font-style: normal;
-            font-weight: normal;
-            font-size: 0.6em;
-            text-transform: uppercase;
-            color: #000000;
-            transform: rotate(90deg);
-            margin-top: 40px;
-        }
+    .images {
+        max-height: 100%;
+    }
 
-        .name {
-            min-width: 120%;
-            align-self: flex-start;
-            font-family: Poppins;
-            font-style: normal;
-            font-weight: bolder;
-            color: #000;
-        }
-        .description {
-            max-width: 400px;
+    .position {
+        align-self: flex-start;
+        font-family: PT Serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 0.6em;
+        text-transform: uppercase;
+        color: #000000;
+        transform: rotate(90deg);
+        margin-top: 40px;
+    }
 
+    .name {
+        min-width: 120%;
+        align-self: flex-start;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bolder;
+        color: #000;
+    }
+
+    .description {
+        max-width: 400px;
+
+    }
 }
