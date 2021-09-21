@@ -38,20 +38,19 @@
 
 ![screenshot](desktop.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+A contact page that contains team members and their roles.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- I learned how to take a design file and code it following specifications
+- How research for information on the to help you solve a particular problem
+- How to get going is to continue practising with projects
+- How to use css grid to create a responsive page for 3 different screens
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML 5](https://www.w3schools.com/html/default.asp)
+- [CSS 3](https://www.w3schools.com/css/default.asp)
 
 ## Features
 
@@ -59,17 +58,16 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
+- [My Reference Site](https://dev-path.github.io/jekyll-theme-memoirs/responsive-design/)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [patrick](https://patrickkyei.com)
+- GitHub [@PatrickKyei](https://github.com/PatrickKyei)
+- Twitter [@your-twitter](https://twitter.com/_patrickbaffour)
