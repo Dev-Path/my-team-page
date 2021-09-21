@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [patrick](https://patrickkyei.com)
-- GitHub [@PatrickKyei](https://github.com/PatrickKyei)
-- Twitter [@_patrickbaffour](https://twitter.com/_patrickbaffour)
+- GitHub [PatrickKyei](https://github.com/PatrickKyei)
+- Twitter [_patrickbaffour](https://twitter.com/_patrickbaffour)
